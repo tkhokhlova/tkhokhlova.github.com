@@ -1,0 +1,1026 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.3.8)  8 MAR 2012 21:42
+entering extended mode
+**thesis.tex
+(D:\workspase\thesis\thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+(C:\Users\Nail\AppData\Roaming\MiKTeX\2.9\tex\latex\disser\disser.cls
+Document Class: disser 2010/06/13 1.1.7 Document class for dissertations
+("C:\Program Files\miktex\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+("C:\Program Files\miktex\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\miktex\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\miktex\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+("C:\Program Files\miktex\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\miktex\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+("C:\Program Files\miktex\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\miktex\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+("C:\Program Files\miktex\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\miktex\tex\latex\textcase\textcase.sty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+("C:\Program Files\miktex\tex\latex\extsizes\size14.clo"
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Program Files\miktex\tex\latex\base\exscale.sty"
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\chapterindent=\skip41
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\footnoteindent=\skip44
+
+(C:\Users\Nail\AppData\Roaming\MiKTeX\2.9\tex\latex\disser\titledefs.rtx
+File: titledefs.rtx 
+\fieldhshift=\skip45
+)
+\bibindent=\dimen103
+
+("C:\Program Files\miktex\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\miktex\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\miktex\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+("C:\Program Files\miktex\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files\miktex\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\miktex\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\miktex\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+\symEulerExtension=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 1389.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 1390.
+
+("C:\Program Files\miktex\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count100
+)
+("C:\Program Files\miktex\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen113
+\WF@size=\dimen114
+\c@WF@wrappedlines=\count101
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\miktex\tex\latex\caption\caption.sty"
+Package: caption 2011/11/10 v3.2e Customizing captions (AR)
+
+("C:\Program Files\miktex\tex\latex\caption\caption3.sty"
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {{\captionlabelfont #1\captionlabeldelim } {\captionfont #2}
+}\ifdim \wd \@tempboxa >\hsize {{\captionlabelfont #1\captionlabeldelim } {\cap
+tionfont #2}}\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@te
+mpboxa \hfil }\fi \vskip \belowcaptionskip .
+*** Local configuration file caption.cfg used ***
+(D:\workspase\thesis\caption.cfg)
+\c@ContinuedFloat=\count102
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Program Files\miktex\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count103
+\sf@farskip=\skip51
+\sf@captopadj=\dimen121
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+
+***********************************************
+* Subfig configuration file subfig.cfg used 
+***********************************************
+(D:\workspase\thesis\subfig.cfg)
+\c@subfigure=\count104
+\c@subfigure@save=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@subtable@save=\count108
+\c@lotdepth=\count109
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+("C:\Program Files\miktex\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/12/04 v6.82m Hypertext links for LaTeX
+
+("C:\Program Files\miktex\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files\miktex\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+("C:\Program Files\miktex\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@linkdim=\dimen122
+\Hy@linkcounter=\count110
+\Hy@pagecounter=\count111
+
+("C:\Program Files\miktex\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/12/04 v6.82m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count112
+
+("C:\Program Files\miktex\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3925.
+Package hyperref Info: Option `colorlinks' set `false' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count113
+
+("C:\Program Files\miktex\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count114
+\Field@Width=\dimen123
+\Fld@charsize=\dimen124
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count115
+\c@Item=\count116
+\c@Hfootnote=\count117
+)
+
+Package hyperref Message: Driver: hypertex.
+
+("C:\Program Files\miktex\tex\latex\hyperref\hypertex.def"
+File: hypertex.def 2011/12/04 v6.82m Hyperref driver for HyperTeX specials
+\Hy@SectionHShift=\skip56
+)
+("C:\Program Files\miktex\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\miktex\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\miktex\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\miktex\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files\miktex\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+("C:\Program Files\miktex\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\miktex\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+("C:\Program Files\miktex\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 1476.
+)
+(C:\Users\Nail\AppData\Roaming\MiKTeX\2.9\tex\latex\disser\candidate.rtx
+File: candidate.rtx 
+)
+("C:\Program Files\miktex\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count118
+\Gm@cntv=\count119
+\c@Gm@tempcnt=\count120
+\Gm@bindingoffset=\dimen127
+\Gm@wd@mp=\dimen128
+\Gm@odd@mp=\dimen129
+\Gm@even@mp=\dimen130
+\Gm@layoutwidth=\dimen131
+\Gm@layoutheight=\dimen132
+\Gm@layouthoffset=\dimen133
+\Gm@layoutvoffset=\dimen134
+\Gm@dimlist=\toks21
+
+("C:\Program Files\miktex\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\miktex\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\miktex\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+("C:\Program Files\miktex\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Program Files\miktex\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+("C:\Program Files\miktex\tex\latex\cyrillic\cp1251.def"
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+("C:\Program Files\miktex\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\miktex\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\miktex\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files\miktex\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count121
+\U@D=\dimen135
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files\miktex\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+Package babel Info: Making " an active character on input line 199.
+))
+("C:\Program Files\miktex\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read1
+)
+\c@assertion=\count122
+\c@note=\count123
+\c@theorem=\count124
+\c@lemm=\count125
+\c@prop=\count126
+\c@determine=\count127
+\c@remark=\count128
+\c@example=\count129
+
+(D:\workspase\thesis\thesis.aux
+
+LaTeX Warning: Label `cond' multiply defined.
+
+
+LaTeX Warning: Label `deriv' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring ON on input line 121.
+ ("C:\Program Files\miktex\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files\miktex\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count130
+)
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.7831pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-57.81723pt
+* \headheight=14.0pt
+* \headsep=28.45274pt
+* \topskip=14.0pt
+* \footskip=28.45274pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\workspase\thesis\common.tex) (D:\workspase\thesis\thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("C:\Program Files\miktex\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("C:\Program Files\miktex\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+euex on input line 2.
+
+("C:\Program Files\miktex\tex\latex\amsfonts\ueuex.fd"
+File: ueuex.fd 2009/06/22 v3.00 Euler extra symbols
+) [1
+
+
+])
+\tf@toc=\write3
+ [2]
+(D:\workspase\thesis\1.tex (D:\workspase\thesis\11.tex
+
+Package natbib Warning: Citation `Hopfield_1984' on page 3 undefined on input l
+ine 21.
+
+
+Package natbib Warning: Citation `Marcus&Westervelt_1989' on page 3 undefined o
+n input line 24.
+
+
+Package natbib Warning: Citation `Gopalsami&Leung_1996' on page 3 undefined on 
+input line 35.
+
+
+Package natbib Warning: Citation `Wei&Ruan_1999' on page 3 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `Yu&Cao_2007' on page 3 undefined on input lin
+e 35.
+
+[3
+
+
+]
+
+Package natbib Warning: Citation `Gopalsami&Leung_1996' on page 4 undefined on 
+input line 43.
+
+
+Package natbib Warning: Citation `Levitskaya_2006' on page 4 undefined on input
+ line 55.
+
+
+Package natbib Warning: Citation `Kipnis&Levitskaya_2007' on page 4 undefined o
+n input line 55.
+
+
+Package natbib Warning: Citation `Gu&Khar_2003' on page 4 undefined on input li
+ne 76.
+
+
+Package natbib Warning: Citation `Mori&Fukuma&Kuwahara_1981' on page 4 undefine
+d on input line 77.
+
+
+Package natbib Warning: Citation `Mori&Kokame_1989' on page 4 undefined on inpu
+t line 77.
+
+[4]
+
+Package natbib Warning: Citation `Dreissche_1998' on page 5 undefined on input 
+line 81.
+
+
+Package natbib Warning: Citation `Idels&Kipnis_2009' on page 5 undefined on inp
+ut line 81.
+
+File: img/grid_of_neurons.eps Graphic file (type eps)
+<img/grid_of_neurons.eps> [5]
+
+Package natbib Warning: Citation `Guo&Huang_2007' on page 6 undefined on input 
+line 140.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 6 undefined o
+n input line 141.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 6 undefined on in
+put line 141.
+
+[6]
+
+Package natbib Warning: Citation `Gu&Khar_2003' on page 7 undefined on input li
+ne 179.
+
+
+Package natbib Warning: Citation `Kiryanen_1994' on page 7 undefined on input l
+ine 179.
+
+
+Package natbib Warning: Citation `Kiryanen&Gal_1989' on page 7 undefined on inp
+ut line 179.
+
+
+Package natbib Warning: Citation `Mori&Fukuma&Kuwahara_1981' on page 7 undefine
+d on input line 179.
+
+
+Package natbib Warning: Citation `Mori&Kokame_1989' on page 7 undefined on inpu
+t line 179.
+
+
+Package natbib Warning: Citation `Wang_1992' on page 7 undefined on input line 
+179.
+
+
+Package natbib Warning: Citation `Matsunaga_2009' on page 7 undefined on input 
+line 180.
+
+
+Package natbib Warning: Citation `Horn&Johnson_1986' on page 7 undefined on inp
+ut line 186.
+
+
+Package natbib Warning: Citation `Khokhlova&Kipnis&Malygina_2011' on page 7 und
+efined on input line 199.
+
+
+Package natbib Warning: Citation `Rekhlitskiy_1956' on page 7 undefined on inpu
+t line 201.
+
+[7]
+Overfull \hbox (3.05197pt too wide) in paragraph at lines 205--215
+\T2A/cmr/m/n/14.4 дел [][]1.3[][]), который будет работать также и для ма
+тричного уравнения [].В ос
+ []
+
+) (D:\workspase\thesis\12.tex [8]
+Overfull \hbox (13.1705pt too wide) in paragraph at lines 18--22
+[][]\T2A/cmr/m/n/14.4 Будем считать, что начальная функция $\OML/cmm/m/it/1
+4.4 '\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 )$ \T2A/cmr/m/n/1
+4.4 кусочно-непрерывна на $\OT1/cmr/m/n/14.4 [\OMS/cmsy/m/n/14.4  \OML/cmm/
+m/it/14.4 ; \OT1/cmr/m/n/14.4 0]$\T2A/cmr/m/n/14.4 .
+ []
+
+File: img/simple1.eps Graphic file (type eps)
+<img/simple1.eps>
+Overfull \hbox (6.59991pt too wide) in paragraph at lines 63--66
+[][]\T2A/cmr/m/n/14.4 Заметим, что кривая $\OML/cmm/m/it/14.4 b \OT1/cmr/m/n/1
+4.4 = \OML/cmm/m/it/14.4 S\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 a\OT1/cmr/m/n/1
+4.4 )$ \T2A/cmr/m/n/14.4 имеет наклонную асимптоту $\OML/cmm/m/it/14.4 a \
+OT1/cmr/m/n/14.4 = \OML/cmm/m/it/14.4 b$ \T2A/cmr/m/n/14.4 (при $\OML/cmm/m/it/
+14.4 ! \OMS/cmsy/m/n/14.4 !
+ []
+
+[9]
+
+Package natbib Warning: Citation `Mori&Fukuma&Kuwahara_1981' on page 10 undefin
+ed on input line 89.
+
+[10]
+
+Package natbib Warning: Citation `Gryazina&Polyak_2006' on page 11 undefined on
+ input line 111.
+
+[11]
+File: img/d_decomp.eps Graphic file (type eps)
+ <img/d_decomp.eps> [12]
+File: img/oval1.eps Graphic file (type eps)
+ <img/oval1.eps> [13]
+File: img/negative_a.eps Graphic file (type eps)
+ <img/negative_a.eps>
+File: img/zero_a.eps Graphic file (type eps)
+
+<img/zero_a.eps>
+File: img/positive_a.eps Graphic file (type eps)
+ <img/positive_a.eps>) (D:\workspase\thesis\13.tex [14]
+[15]
+File: img/ex_new3.eps Graphic file (type eps)
+ <img/ex_new3.eps> [16] [17]) (D:\workspase\thesis\14.tex [18] [19]
+
+Package natbib Warning: Citation `Horn&Johnson_1986' on page 20 undefined on in
+put line 91.
+
+File: img/corrections14.eps Graphic file (type eps)
+<img/corrections14.eps>
+File: img/corrections_7.eps Graphic file (type eps)
+ <img/corrections_7.eps> [20] [21]
+File: img/correct4_4_short2.eps Graphic file (type eps)
+
+<img/correct4_4_short2.eps>
+File: img/correct4_4_up.eps Graphic file (type eps)
+ <img/correct4_4_up.eps> [22] [23]
+
+Package natbib Warning: Citation `Khokhlova&Kipnis&Malygina_2011' on page 24 un
+defined on input line 243.
+
+
+Package natbib Warning: Citation `Chen&Latchman_1995' on page 24 undefined on i
+nput line 246.
+
+) (D:\workspase\thesis\15.tex
+
+Package natbib Warning: Citation `Kiryanen&Gal_1989' on page 24 undefined on in
+put line 8.
+
+[24] [25]
+Overfull \hbox (64.72345pt too wide) in paragraph at lines 104--107
+[]\T2A/cmr/m/n/14.4 По определению овала устойчивости (см. определени
+е [][]1.1[][]) имеем $\OML/cmm/m/it/14.4 ! \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/1
+4.4 []$\T2A/cmr/m/n/14.4 .
+ []
+
+[26]) (D:\workspase\thesis\16.tex
+
+Package natbib Warning: Citation `Rekhlitskiy_1956' on page 27 undefined on inp
+ut line 5.
+
+
+Package natbib Warning: Citation `Cahlon&Schmidt_2000' on page 27 undefined on 
+input line 10.
+
+
+Package natbib Warning: Citation `Matsunaga_2007' on page 27 undefined on input
+ line 17.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 27 undefined 
+on input line 22.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 27 undefined on i
+nput line 23.
+
+[27])) (D:\workspase\thesis\2.tex (D:\workspase\thesis\21.tex [28]
+Overfull \hbox (10.93715pt too wide) detected at line 22
+[]\OML/cmm/m/it/14.4 [] \OT1/cmr/m/n/14.4 = []\OML/cmm/m/it/14.4 ;  m \OMS/cms
+y/m/n/14.4 2 \U/msb/m/n/14.4 Z\OML/cmm/m/it/14.4 ;  Q \OT1/cmr/m/n/14.4 = []\OM
+L/cmm/m/it/14.4 :
+ []
+
+[29
+
+]
+Overfull \hbox (36.53654pt too wide) in paragraph at lines 83--85
+[]\T2A/cmr/bx/n/14.4 Доказательство. \T2A/cmr/m/n/14.4 Построим для каждого
+ $\OML/cmm/m/it/14.4 j$ $\OT1/cmr/m/n/14.4 (1 \U/msa/m/n/14.4 6 \OML/cmm/m/it/1
+4.4 j \U/msa/m/n/14.4 6 \OML/cmm/m/it/14.4 n\OT1/cmr/m/n/14.4 )$ \T2A/cmr/m/n/1
+4.4 точку $\OML/cmm/m/it/14.4 M[] \OT1/cmr/m/n/14.4 = (\OML/cmm/m/it/14.4 u[];
+ u[]; u[]\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 2
+ []
+
+[30] [31] [32] [33]) (D:\workspase\thesis\22.tex [34] [35]
+File: img/app1-shot1.eps Graphic file (type eps)
+
+<img/app1-shot1.eps>
+File: img/app1-shot2.eps Graphic file (type eps)
+ <img/app1-shot2.eps> [36]
+File: img/app1-shot3.eps Graphic file (type eps)
+ <img/app1-shot3.eps> [37]
+[38]
+File: img/app1-shot4.eps Graphic file (type eps)
+ <img/app1-shot4.eps> [39]
+Overfull \hbox (3.09412pt too wide) in paragraph at lines 135--142
+\T2A/cmr/m/n/14.4 пилированном с помощью компилятора mcc, входящег
+о в дистрибутив. Для за
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 135--142
+\T2A/cmr/m/n/14.4 библиотеки Matlab, которые можно получить на официа
+льном сайте
+ []
+
+)) (D:\workspase\thesis\3.tex (D:\workspase\thesis\31.tex [40]
+
+Package natbib Warning: Citation `Yu&Cao_2007' on page 41 undefined on input li
+ne 6.
+
+
+Package natbib Warning: Citation `Huang&Huang_2007' on page 41 undefined on inp
+ut line 6.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 41 undefined 
+on input line 7.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 41 undefined on i
+nput line 7.
+
+
+Package natbib Warning: Citation `Campbell&Ncube&Wu_2006' on page 41 undefined 
+on input line 7.
+
+
+Package natbib Warning: Citation `Guo&Huang_2007' on page 41 undefined on input
+ line 7.
+
+
+Package natbib Warning: Citation `Lu&Guo_2008' on page 41 undefined on input li
+ne 7.
+
+
+Package natbib Warning: Citation `Kaslic&Balint_2009' on page 41 undefined on i
+nput line 7.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 41 undefined 
+on input line 8.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 41 undefined on i
+nput line 8.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 41 undefined 
+on input line 10.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 41 undefined on i
+nput line 10.
+
+
+Package natbib Warning: Citation `Khokhlova&Kipnis&Malygina_2011' on page 41 un
+defined on input line 14.
+
+
+Package natbib Warning: Citation `Ivanov&Kipnis&Malygina_2011' on page 41 undef
+ined on input line 15.
+
+
+Package natbib Warning: Citation `Kaslic&Balint_2009' on page 41 undefined on i
+nput line 17.
+
+
+Package natbib Warning: Citation `Kipnis&Malygina_2011' on page 41 undefined on
+ input line 17.
+
+[41
+
+]
+File: img/circle_of_neurons.eps Graphic file (type eps)
+ <img/circle_of_neurons.eps>
+
+Package natbib Warning: Citation `Kipnis&Levitskaya_2007' on page 42 undefined 
+on input line 47.
+
+
+Package natbib Warning: Citation `Levitskaya_2006' on page 42 undefined on inpu
+t line 47.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 42 undefined 
+on input line 64.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 42 undefined on i
+nput line 64.
+
+[42]
+
+Package natbib Warning: Citation `Khokhlova&Kipnis&Malygina_2011' on page 43 un
+defined on input line 72.
+
+[43]
+
+Package natbib Warning: Citation `Khokhlova&Kipnis&Malygina_2011' on page 44 un
+defined on input line 106.
+
+
+Package natbib Warning: Citation `program2' on page 44 undefined on input line 
+113.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
+
+ []
+
+
+Overfull \hbox (53.97324pt too wide) in paragraph at lines 144--147
+[][]\T2A/cmr/m/n/14.4 Для изучения устойчивости [], [] строим систему т
+очек $\OML/cmm/m/it/14.4 M[] \OT1/cmr/m/n/14.4 = (\OML/cmm/m/it/14.4 u[]; u[];
+ u[]\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 2
+ []
+
+[44]
+Overfull \hbox (37.1544pt too wide) in paragraph at lines 160--165
+\OML/cmm/m/it/14.4 M[]$ \T2A/cmr/m/n/14.4 естественно ввести непре-рыв-ную з
+амкнутую кривую $\OML/cmm/m/it/14.4 M[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4
+ t\OT1/cmr/m/n/14.4 ) = (\OML/cmm/m/it/14.4 u[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it
+/14.4 t\OT1/cmr/m/n/14.4 )\OML/cmm/m/it/14.4 ; u[]\OT1/cmr/m/n/14.4 (\OML/cmm/m
+/it/14.4 t\OT1/cmr/m/n/14.4 )\OML/cmm/m/it/14.4 ; u[]\OT1/cmr/m/n/14.4 (\OML/cm
+m/m/it/14.4 t\OT1/cmr/m/n/14.4 ))$\T2A/cmr/m/n/14.4 ,
+ []
+
+
+LaTeX Warning: Reference `homega' on page 45 undefined on input line 180.
+
+
+Overfull \hbox (2.56685pt too wide) in paragraph at lines 176--185
+\T2A/cmr/m/n/14.4 внутри конуса устойчивости [], [] (см. определение [
+][]1.2[][]), то система [],
+ []
+
+File: img/cone_nice2.eps Graphic file (type eps)
+<img/cone_nice2.eps>) (D:\workspase\thesis\32.tex [45] [46]
+File: img/app1-shot1.eps Graphic file (type eps)
+
+<img/app1-shot1.eps>
+File: img/app1-shot2.eps Graphic file (type eps)
+ <img/app1-shot2.eps>
+Overfull \hbox (0.21191pt too wide) in paragraph at lines 57--71
+\T2A/cmr/m/n/14.4 жать на кнопку <<Рассчитать...>>. Появляется вспомог
+ательное окно (рис. [][]3.5[][]),
+ []
+
+[47] [48]
+File: img/app1-shot3.eps Graphic file (type eps)
+ <img/app1-shot3.eps> [49]
+File: img/app1-shot4.eps Graphic file (type eps)
+ <img/app1-shot4.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 102--109
+\T2A/cmr/m/n/14.4 ном сайте
+ []
+
+[50]) (D:\workspase\thesis\33.tex
+
+Package natbib Warning: Citation `Mori&Fukuma&Kuwahara_1981' on page 51 undefin
+ed on input line 6.
+
+[51]
+File: img/graph1.eps Graphic file (type eps)
+ <img/graph1.eps>
+File: img/graph2.eps Graphic file (type eps)
+ <img/graph2.eps> [52]
+Overfull \hbox (16.28381pt too wide) in paragraph at lines 103--105
+[][]\T2A/cmr/m/n/14.4 В таблице [][]3.1[][] представлены результаты ана
+лиза устойчивости систем [],
+ []
+
+[53]) (D:\workspase\thesis\34.tex
+File: img/line_of_neurons.eps Graphic file (type eps)
+ <img/line_of_neurons.eps> [54] [55]
+File: img/domain_for_line_of_neurons.eps Graphic file (type eps)
+
+<img/domain_for_line_of_neurons.eps> [56]) (D:\workspase\thesis\35.tex [57]
+[58] [59] [60]) (D:\workspase\thesis\36.tex
+
+Package natbib Warning: Citation `Wei&Ruan_1999' on page 61 undefined on input 
+line 4.
+
+
+Package natbib Warning: Citation `Campbell&Ncube&Wu_2006' on page 61 undefined 
+on input line 4.
+
+
+Package natbib Warning: Citation `Campbell&Ruan&Wei_1999' on page 61 undefined 
+on input line 4.
+
+
+Package natbib Warning: Citation `Lu&Guo_2008' on page 61 undefined on input li
+ne 4.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 61 undefined on i
+nput line 4.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 61 undefined on i
+nput line 4.
+
+[61]
+
+Package natbib Warning: Citation `Campbell&Ncube&Wu_2006' on page 62 undefined 
+on input line 18.
+
+
+Package natbib Warning: Citation `Lu&Guo_2008' on page 62 undefined on input li
+ne 20.
+
+
+Package natbib Warning: Citation `Yuan&Campbell_2004' on page 62 undefined on i
+nput line 22.
+
+[62]
+
+Package natbib Warning: Citation `Campbell&Ncube&Wu_2006' on page 63 undefined 
+on input line 24.
+
+))
+No file thesis.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
+[63]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
+ (D:\workspase\thesis\thesis.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 201.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 201.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9065 strings out of 494046
+ 132109 string characters out of 3150026
+ 224505 words of memory out of 3000000
+ 12140 multiletter control sequences out of 15000+200000
+ 20996 words of font info for 63 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 43i,12n,46p,3747b,478s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on thesis.dvi (63 pages, 264972 bytes).
